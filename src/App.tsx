@@ -1,8 +1,9 @@
-export function App() {
+import { Widget } from "./components/Widget";
 
+export function App() {
   return (
     <div>
-      <h1>Hello, world!</h1>
+      <Widget />
     </div>
-  )
+  );
 }

@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="DoWhile 2021" title="DoWhile 2021" width="450px"  src="https://user-images.githubusercontent.com/45200253/167313882-280ad7d8-fe3d-412a-8a54-dcb2249815b9.svg" />
+  <img alt="DoWhile 2021" title="DoWhile 2021" src="https://user-images.githubusercontent.com/45200253/167313882-280ad7d8-fe3d-412a-8a54-dcb2249815b9.svg" />
 </h1>
 
 <p align="center">
